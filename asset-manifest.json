@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MovieBrochure-React/static/css/main.0bea16d2.css",
+    "main.js": "/MovieBrochure-React/static/js/main.48ad3d90.js",
+    "index.html": "/MovieBrochure-React/index.html",
+    "main.0bea16d2.css.map": "/MovieBrochure-React/static/css/main.0bea16d2.css.map",
+    "main.48ad3d90.js.map": "/MovieBrochure-React/static/js/main.48ad3d90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bea16d2.css",
+    "static/js/main.48ad3d90.js"
+  ]
+}
